@@ -19,7 +19,7 @@ export const AppDrawerNavigator = createDrawerNavigator({
     contentComponent: CustomSideBarMenu
 },
 {
-    initialRootName: 'Home'
+    initialRouteName: 'Home'
 }
 )
 
